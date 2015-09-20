@@ -2,7 +2,7 @@
 
 git_install_from_source: yes
 git_prefix: "/usr/local"
-git_version: "2.4.5"
+git_version: "2.5.3"
 git_source_url: "https://nodeload.github.com/git/git/tar.gz/v{{git_version}}"
 
 git_install_server: no
